@@ -1,0 +1,10 @@
+
+.menu-horizontal{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+body span img  {
+    border: 2px solid rgb(120, 93, 243);
+    border-radius: 4px;
+}
